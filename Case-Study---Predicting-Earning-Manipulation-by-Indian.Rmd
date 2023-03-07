@@ -1,6 +1,6 @@
 ---
-title: 'Assignment 3: Earning Manipulation by Indian Firm'
-author: "Nabeel Khan, Nha Nguyen, Razzaq"
+title: 'Earning Manipulation by Indian Firm'
+author: "Nha Nguyen"
 date: '2022-11-14'
 output: html_document
 ---
