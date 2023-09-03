@@ -1,4 +1,4 @@
-# Project-Predicting-Earning-Manipulation
+# Case Study - “Predicting Earning Manipulations by Indian Firms using Machine Learning Algorithms” 
 
 ## **Objectives:**
 
